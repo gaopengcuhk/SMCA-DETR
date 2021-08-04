@@ -82,3 +82,14 @@ takes around 25 hours on a single machine with 8 V100 cards.
 </table>
 
 ## SMCA has been accepted by ICCV 2021. This repo has been served for code submission during review period. Thus, we will keep the repo fixed. Polished version of SMCA-DETR will be released in a new repo and link will be updated soon. 
+
+## Citation
+If you find this repository useful, please consider citing our work:
+```
+@article{gao2021fast,
+  title={Fast convergence of detr with spatially modulated co-attention},
+  author={Gao, Peng and Zheng, Minghang and Wang, Xiaogang and Dai, Jifeng and Li, Hongsheng},
+  journal={arXiv preprint arXiv:2101.07448},
+  year={2021}
+}
+```
