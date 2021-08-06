@@ -108,6 +108,12 @@ takes around 25 hours on a single machine with 8 V100 cards.
 https://github.com/abc403/SMCA-replication
 
 
+## Release Steps1
+1. Single-scale SMCA 
+2. Single-scale SMCA with Container-Small
+3. Single-scale SMCA with Container-Medium
+4. New Multi-scale SMCA
+
 ## Citation
 If you find this repository useful, please consider citing our work:
 ```
