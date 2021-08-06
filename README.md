@@ -85,6 +85,20 @@ takes around 25 hours on a single machine with 8 V100 cards.
       <td>250</td>
       <td>43.5</td>
     </tr>
+    <tr>
+      <th>3</th>
+      <td>SMCA(multi scale)</td>
+      <td>R50</td>
+      <td>50</td>
+      <td>43.7</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>SMCA(New multi scale)</td>
+      <td>R50</td>
+      <td>50</td>
+      <td>44.4</td>
+    </tr>
   </tbody>
 </table>
 
