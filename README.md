@@ -121,6 +121,9 @@ https://github.com/abc403/SMCA-replication
 3. Single-scale SMCA with Container-Medium
 4. New Multi-scale SMCA
 
+## Internship and Research Engineer Chance:
+
+I am going to join Shanghai AI Lab. My research focuses on General Vision and Large-scale visual-language pretraining. We offer good research platforms and guidance for our interns and research engineers. If you are interested in an internship or full-time research engineer chances at Shanghai AI Lab, please drop me an email at 1155102382@link.cuhk.edu.hk.
 
 
 ## Citation
