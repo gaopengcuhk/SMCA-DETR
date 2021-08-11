@@ -1,4 +1,4 @@
-# SMCA-DETR
+# Fast convergence of detr with spatially modulated co-attention
 
 
 # Usage
