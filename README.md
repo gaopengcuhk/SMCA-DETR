@@ -76,7 +76,7 @@ takes around 25 hours on a single machine with 8 V100 cards.
       <td>SMCA-Container(single scale)</td>
       <td>Container-M</td>
       <td>50</td>
-      <td> N/A </td>
+      <td> 47.3 </td>
     </tr>
     <tr>
       <th>3</th>
