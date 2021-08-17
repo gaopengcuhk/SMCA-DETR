@@ -149,4 +149,4 @@ If you find this repository useful, please consider citing our work:
 Peng Gao, Qiu Han
 
 ## Acknowledege
-The project are borrowed heavily from DETR
+The project are borrowed heavily from DETR. Partially motivated by Sparse RCNN.
