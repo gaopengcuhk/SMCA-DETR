@@ -46,6 +46,10 @@ python -m torch.distributed.launch --nproc_per_node=8 --use_env main.py --coco_p
 A single epoch takes 30 minutes, so 50 epoch training
 takes around 25 hours on a single machine with 8 V100 cards.
 
+
+
+
+# Model Zoo
 <table>
   <thead>
     <tr style="text-align: right;">
