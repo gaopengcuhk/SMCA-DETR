@@ -123,7 +123,7 @@ https://github.com/abc403/SMCA-replication
 1. Single-scale SMCA 
 2. Single-scale SMCA with Container-Small
 3. Single-scale SMCA with Container-Medium
-4. New Multi-scale SMCA
+4. New Multi-scale SMCA    (Newly added Multi_scale_SMCA.zip, 9th Sep)
 
 
 ## Multi-scale Version
