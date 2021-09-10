@@ -126,14 +126,6 @@ https://github.com/abc403/SMCA-replication
 4. New Multi-scale SMCA    (Newly added Multi_scale_SMCA.zip, 9th Sep)
 
 
-## Multi-scale Version
-If you need multi-scale SMCA-DETR, please email me. 
-
-## Internship and Research Engineer Chance:
-
-I am going to join Shanghai AI Lab. My research focuses on General Vision and Large-scale visual-language pretraining. We offer good research platforms and guidance for our interns and research engineers. If you are interested in an internship or full-time research engineer chances at Shanghai AI Lab, please drop me an email at 1155102382@link.cuhk.edu.hk.
-
-
 ## Citation
 If you find this repository useful, please consider citing our work:
 ```
