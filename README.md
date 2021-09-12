@@ -120,7 +120,7 @@ takes around 25 hours on a single machine with 8 V100 cards.
     </tr>
     <tr>
       <th>7</th>
-      <td>SMCA(New multi scale)</td>
+      <td>SMCA</td>
       <td>Visual Genome</td>
       <td>R50</td>
       <td>50</td>
@@ -128,8 +128,6 @@ takes around 25 hours on a single machine with 8 V100 cards.
     </tr>
   </tbody>
 </table>
-
-## SMCA has been accepted by ICCV 2021. 
 
 ## Original SMCA code submission during ICCV review period. 
 https://github.com/abc403/SMCA-replication
