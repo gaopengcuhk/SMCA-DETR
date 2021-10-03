@@ -159,6 +159,15 @@ If you find this repository useful, please consider citing our work:
 }
 ```
 
+```
+@article{zheng2020end,
+  title={End-to-end object detection with adaptive clustering transformer},
+  author={Zheng, Minghang and Gao, Peng and Wang, Xiaogang and Li, Hongsheng and Dong, Hao},
+  journal={arXiv preprint arXiv:2011.09315},
+  year={2020}
+}
+```
+
 ## Contributor
 Peng Gao, Qiu Han
 
