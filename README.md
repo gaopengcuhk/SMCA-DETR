@@ -169,7 +169,7 @@ If you find this repository useful, please consider citing our work:
 ```
 
 ## Contributor
-Peng Gao, Qiu Han
+Peng Gao, Qiu Han, Minghang Zeng
 
 ## Acknowledege
 The project are borrowed heavily from DETR. Partially motivated by Sparse RCNN.
