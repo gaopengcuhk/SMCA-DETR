@@ -85,3 +85,6 @@ python main.py --no_aux_loss \
     --coco_path DataPath \
 ```
 
+
+Acknowledgement
+This project is motivated by DETR, Cluster Attention, Reformer and SMYRF. 
