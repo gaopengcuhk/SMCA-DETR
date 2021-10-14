@@ -130,7 +130,7 @@ takes around 25 hours on a single machine with 8 V100 cards.
 </table>
 
 
-##Panoptic Segmentation
+## Panoptic Segmentation
 # Model Zoo
 <table>
   <thead>
@@ -167,8 +167,6 @@ takes around 25 hours on a single machine with 8 V100 cards.
       <td>80.4</td>
       <td>56.0</td>
     </tr>
-
-
   </tbody>
 </table>
 ## Original SMCA code submission during ICCV review period. 
