@@ -146,7 +146,6 @@ takes around 25 hours on a single machine with 8 V100 cards.
     </tr>
   </thead>
   <tbody>
-
     <tr>
       <th>1</th>
       <td>MASK-Former(single scale)</td>
