@@ -138,6 +138,7 @@ https://github.com/abc403/SMCA-replication
 2. Single-scale SMCA with Container-Small
 3. Single-scale SMCA with Container-Medium
 4. New Multi-scale SMCA    (Newly added Multi_scale_SMCA.zip, 9th Sep)
+5. SMCA-DETR for Fast Convergence of Panoptic Segmentation 
 
 
 ## Citation
