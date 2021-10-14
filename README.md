@@ -48,7 +48,7 @@ takes around 25 hours on a single machine with 8 V100 cards.
 
 
 
-
+## Object Detection
 # Model Zoo
 <table>
   <thead>
