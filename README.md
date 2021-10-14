@@ -129,6 +129,48 @@ takes around 25 hours on a single machine with 8 V100 cards.
   </tbody>
 </table>
 
+
+##Panoptic Segmentation
+# Model Zoo
+<table>
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>dataset</th>
+      <th>backbone</th>
+      <th>schedule</th>
+      <th>PQ</th>
+      <th>SQ</th>
+      <th>RQ</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <th>1</th>
+      <td>MASK-Former(single scale)</td>
+      <td>MSCOCO</td>
+      <td>R50</td>
+      <td>500</td>
+      <td>46.5</td>
+      <td>80.4</td>
+      <td>56.8</td>
+    </tr>
+     <tr>
+      <th>2</th>
+      <td>SMCA-MASK-Former(single scale)</td>
+       <td>MSCOCO</td>
+      <td>R50</td>
+      <td>50</td>
+      <td>46.0</td>
+      <td>80.4</td>
+      <td>56.0</td>
+    </tr>
+
+
+  </tbody>
+</table>
 ## Original SMCA code submission during ICCV review period. 
 https://github.com/abc403/SMCA-replication
 
